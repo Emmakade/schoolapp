@@ -1,6 +1,6 @@
 # schoolapp
 
-A new Flutter project.
+A Secondary school portal app.
 
 ## Getting Started
 
